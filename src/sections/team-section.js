@@ -18,7 +18,7 @@ const data = [
     imgSrc: Member1,
     altText: 'William Aoun',
     title: 'William Aoun',
-    designation: 'Founder and Director',
+    designation: 'Founder, President, Director, and Programmer',
     socialProfile: [
       {
         id: 1,
@@ -45,7 +45,7 @@ const data = [
     imgSrc: Member2,
     altText: 'Pierre Gabaix',
     title: 'Pierre Gabaix',
-    designation: 'Founder and Director',
+    designation: 'Founder, Director, and Project Manager for UK',
     socialProfile: [
       {
         id: 1,
@@ -72,7 +72,7 @@ const data = [
     imgSrc: Member3,
     altText: 'Victor Bauche',
     title: 'Victor Bauche',
-    designation: 'Founder and Director',
+    designation: 'Founder, Director, and Project Manager for Switzerland',
     socialProfile: [
       {
         id: 1,
@@ -99,7 +99,7 @@ const data = [
     imgSrc: Member4,
     altText: 'Paul Meyer',
     title: 'Paul Meyer',
-    designation: 'Secretary and Stripper',
+    designation: 'Director, and Adviser',
     socialProfile: [
       {
         id: 1,
