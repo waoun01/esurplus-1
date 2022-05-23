@@ -17,10 +17,10 @@ export default function Banner() {
             In 2021, an estimated 57.4 million tonnes of electronic waste was discarded, outweighing the Great Wall of China. Help us make a change!
           </Text>
           <form action="https://www.paypal.com/donate" method="post" target="_top">
-            <input type="hidden" name="hosted_button_id" value="UCC8P7FG279KC" />
-            <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-            <img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1" />
-          </form>
+<input type="hidden" name="hosted_button_id" value="UCC8P7FG279KC" />
+<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1" />
+</form>
         </Box>
 
       </Container>
