@@ -1,7 +1,7 @@
 export default {
   menuItem: [
     {
-      path: '#',
+      path: '',
       label: 'Contact: esurplus.charity@gmail.com',
     },
   ],
