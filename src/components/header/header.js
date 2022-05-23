@@ -96,10 +96,10 @@ const styles = {
       lineHeight: '1.2',
       transition: 'all 0.15s',
       '&:hover': {
-        color: 'primary',
+        color: 'secondary',
       },
       '&.active': {
-        color: 'primary',
+        color: 'secondary',
       },
     },
   },
