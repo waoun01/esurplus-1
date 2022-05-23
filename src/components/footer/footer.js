@@ -14,14 +14,15 @@ export default function Footer() {
           </Link> 
           <Box sx={styles.footer.menus}>
             <nav>
-              {data.menuItem.map((item, i)=>(
+              {/*{data.menuItem.map((item, i) => (
                 <Link
                   path={item.path}
                   key={i}
                   label={item.label}
                   sx={styles.footer.link}
                 />
-              ))}
+              ))}*/}
+              Contact: esurplus.charity@gmail.com
             </nav>
           </Box> 
         </Box>
