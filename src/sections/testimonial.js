@@ -13,11 +13,11 @@ import Avatar4 from 'assets/testimonial/avatar4.png';
 const data = [
   {
     id: 1,
-    title: 'Modern look & trending design',
+    title: 'Work ethic',
     description:
-      'Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.',
+      'jfiufhevuvhguryvhguyfvguyrt vruhvbguybggtuyrb c',
     avatar: Avatar1,
-    name: 'Denny Hilguston',
+    name: 'William Aoun',
     designation: '@denny.hil',
     review: 4,
   },
@@ -25,9 +25,9 @@ const data = [
     id: 2,
     title: 'Design Quality & performance',
     description:
-      'Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.',
+      'djnceivhriubtrugwhegiheutgerughriefgiufgh rfvewhfiuerrfheutf rgf4rfbiruef',
     avatar: Avatar2,
-    name: 'Denny Hilguston',
+    name: 'Pierre Gabaix',
     designation: '@denny.hil',
     review: 5,
   },
@@ -35,9 +35,9 @@ const data = [
     id: 3,
     title: 'Layout and organized layers',
     description:
-      'Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.',
+      'dfvuyrnuf herbfeubfeurbdiurdfbduyvgdrufr ',
     avatar: Avatar3,
-    name: 'Denny Hilguston',
+    name: 'Victor Bauche',
     designation: '@denny.hil',
     review: 5,
   },
@@ -45,9 +45,9 @@ const data = [
     id: 4,
     title: 'Modern look & trending design',
     description:
-      'Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.',
+      'I like to dance',
     avatar: Avatar4,
-    name: 'Denny Hilguston',
+    name: 'Paul Meyer',
     designation: '@denny.hil',
     review: 4,
   },
