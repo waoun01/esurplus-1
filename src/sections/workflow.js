@@ -10,27 +10,27 @@ import ArrowEven from 'assets/arrowEven.svg';
 const data = [
   {
     id: 1,
-    title: 'Set disbursement Instructions',
+    title: 'Data Wiping',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Victor ecrit une description',
   },
   {
     id: 2,
-    title: 'Assembly retrieves funds from your account',
+    title: 'Collecting',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Victor ecrit une description',
   },
   {
     id: 3,
-    title: 'Assembly initiates disbursement',
+    title: 'Distributing/Recycling',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Victor ecrit une description',
   },
   {
     id: 4,
-    title: 'Customer receives funds payment',
+    title: 'Positive Outcomes',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Victor ecrit une description',
   },
 ];
 
