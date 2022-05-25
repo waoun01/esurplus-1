@@ -14,7 +14,7 @@ export default function Banner() {
             Let's reduce electronic waste!
           </Heading>
           <Text as="p" variant="heroSecondary">
-            In 2021, an estimated 57.4 million tonnes of electronic waste was discarded, outweighing the Great Wall of China. Help us make a change!
+            In 2021, an estimated 57.4 million tonnes of electronic waste was discarded, outweighing the Great Wall of China. In 2022, help us make a change!
           </Text>
           <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="UCC8P7FG279KC" />
