@@ -16,9 +16,9 @@ const data = [
   },
   {
     id: 2,
-    title: 'E-Surplus collects devices from your school\'s E-Surplus project manager. You can reach out to the person in charge at your school, however, there will also be organised events with mass donations you can take part in.',
+    title: 'Collecting',
     text:
-      '',
+      'E-Surplus collects devices from your school\'s E-Surplus project manager. You can reach out to the person in charge at your school, however, there will also be organised events with mass donations you can take part in.',
   },
   {
     id: 3,
