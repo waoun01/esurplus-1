@@ -12,25 +12,25 @@ const data = [
     id: 1,
     title: 'Data Wiping',
     text:
-      'Victor ecrit une description',
+      'In order to donate an electronic device, we ask that you wipe out your phone or laptop beforehand. We’ll verify that the devices are properly wiped before donating them.',
   },
   {
     id: 2,
-    title: 'Collecting',
+    title: 'E-Surplus collects devices from your school\'s E-Surplus project manager. You can reach out to the person in charge at your school, however, there will also be organised events with mass donations you can take part in.',
     text:
-      'Victor ecrit une description',
+      '',
   },
   {
     id: 3,
     title: 'Distributing/Recycling',
     text:
-      'Victor ecrit une description',
+      'Your electronics are then either distributed to individuals from underprivileged backgrounds such as refugees and children in need or properly recycled at a local trusted electronics recycler if the electronic device is irreparable.',
   },
   {
     id: 4,
     title: 'Positive Outcomes',
     text:
-      'Victor ecrit une description',
+      'By donating to E-Surplus you help reduce social inequalities by giving families access to electronic devices and access to better education, since 12% of UK households don’t have computers. Furthermore, you help reduce electronic waste since the UK is one of the biggest producers of electronic waste in the world, wasting 1.6 million tons in 2021.',
   },
 ];
 
