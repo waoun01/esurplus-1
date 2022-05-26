@@ -12,7 +12,7 @@ const data = [
     id: 1,
     title: 'Data Wiping',
     text:
-      'In order to donate an electronic device, we ask that you wipe out your phone or laptop beforehand. We’ll verify that the devices are properly wiped before donating them.',
+      'In order to donate an electronic device, we ask you to wipe your phone or laptop’s data beforehand. We’ll verify that the devices are properly wiped before donating them.',
   },
   {
     id: 2,
@@ -24,13 +24,13 @@ const data = [
     id: 3,
     title: 'Distributing/Recycling',
     text:
-      'Your electronics are then either distributed to individuals from underprivileged backgrounds such as refugees and children in need or properly recycled at a local trusted electronics recycler if the electronic device is irreparable.',
+      'Your electronics are then either distributed to individuals from underprivileged backgrounds such as refugees and children in need or if the device is irreparable, it is properly recycled at a local trusted electronics recycler.',
   },
   {
     id: 4,
     title: 'Positive Outcomes',
     text:
-      'By donating to E-Surplus you help reduce social inequalities by giving families access to electronic devices and access to better education, since 12% of UK households don’t have computers. Furthermore, you help reduce electronic waste since the UK is one of the biggest producers of electronic waste in the world, wasting 1.6 million tons in 2021.',
+      'By donating to E-Surplus you help reduce social inequalities by giving families access to electronic devices and access to better education since 12% of UK households don’t have computers. Furthermore, you help reduce electronic waste in the UK: one of the biggest producers of electronic waste in the world, wasting 1.6 million tons in 2021.',
   },
 ];
 
