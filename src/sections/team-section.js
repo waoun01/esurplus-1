@@ -18,7 +18,7 @@ const data = [
     imgSrc: Member1,
     altText: 'William Aoun',
     title: 'William Aoun',
-    designation: 'Founder, Director, Co-President, and Programmer',
+    designation: 'Founder, Director, General Manager, and Programmer',
     socialProfile: [
       {
         id: 1,
@@ -45,7 +45,7 @@ const data = [
     imgSrc: Member2,
     altText: 'Pierre Gabaix',
     title: 'Pierre Gabaix',
-    designation: 'Founder, Director, Co-president, and Project Manager for UK',
+    designation: 'Founder, Director, and Project Manager for UK',
     socialProfile: [
       {
         id: 1,
