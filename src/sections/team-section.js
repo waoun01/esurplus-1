@@ -45,7 +45,7 @@ const data = [
     imgSrc: Member2,
     altText: 'Pierre Gabaix',
     title: 'Pierre Gabaix',
-    designation: 'Founder, Director, and Project Manager for UK',
+    designation: 'Founder, Director, and UK Project Manager',
     socialProfile: [
       {
         id: 1,
@@ -72,7 +72,7 @@ const data = [
     imgSrc: Member3,
     altText: 'Victor Bauche',
     title: 'Victor Bauche',
-    designation: 'Founder, Director, and Project Manager for Switzerland',
+    designation: 'Founder, Director, and Switzerland Project Manager',
     socialProfile: [
       {
         id: 1,
