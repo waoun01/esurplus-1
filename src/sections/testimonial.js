@@ -78,7 +78,7 @@ const responsive = {
 
 const carouselParams = {
   additionalTransfrom:0,
-  arrows:false,
+  arrows:true,
   autoPlaySpeed:3000,
   centerMode:false,
   className:"",
