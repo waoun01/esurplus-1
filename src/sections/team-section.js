@@ -18,7 +18,7 @@ const data = [
     imgSrc: Member1,
     altText: 'William Aoun',
     title: 'William Aoun',
-    designation: 'Founder, Director, General Manager, and Programmer',
+    designation: 'Founder, Director, International Project Manager, and Programmer',
     socialProfile: [
       {
         id: 1,
