@@ -15,7 +15,7 @@ const data = [
     id: 1,
     title: 'Work ethic',
     description:
-      'jfiufhevuvhguryvhguyfvguyrt vruhvbguybggtuyrb c',
+      '#text',
     avatar: Avatar1,
     name: 'William Aoun',
     designation: '@denny.hil',
@@ -25,7 +25,7 @@ const data = [
     id: 2,
     title: 'Design Quality & performance',
     description:
-      'djnceivhriubtrugwhegiheutgerughriefgiufgh rfvewhfiuerrfheutf rgf4rfbiruef',
+      '#text',
     avatar: Avatar2,
     name: 'Pierre Gabaix',
     designation: '@denny.hil',
@@ -35,7 +35,7 @@ const data = [
     id: 3,
     title: 'Layout and organized layers',
     description:
-      'dfvuyrnuf herbfeubfeurbdiurdfbduyvgdrufr ',
+      '#text',
     avatar: Avatar3,
     name: 'Victor Bauche',
     designation: '@denny.hil',
@@ -45,7 +45,7 @@ const data = [
     id: 4,
     title: 'Modern look & trending design',
     description:
-      'I like to dance',
+      '#text',
     avatar: Avatar4,
     name: 'Paul Meyer',
     designation: '@denny.hil',
