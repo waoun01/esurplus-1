@@ -56,7 +56,7 @@ const data = [
     title: '',
     description:
       '#text',
-    //avatar: Avatar4,
+    avatar: Avatar4,
     name: 'Paul Meyer - High-maintenance prostitute',
     designation: '@denny.hil',
     review: 4,
