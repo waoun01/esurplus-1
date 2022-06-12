@@ -12,11 +12,11 @@ import Avatar4 from 'assets/testimonial/avatar4.png';
 
 const data = [
   {
-    id: 1,
+  id: 1,
     title: "Efficiency",
     description:
       "E-Surplus takes a direct approaching when it comes to tackling the problem of electronic waste and wastes no time by connecting schools, electronic recyclers and charities in the most efficient way possible!",
-    avatar: Avatar5,
+    //avatar: Avatar1,
     name: "Antonin Grosclaude-Evans - Student at EJM",
     designation: "@denny.hil",
     review: 4,
