@@ -15,9 +15,9 @@ const data = [
   id: 1,
     title: "Efficiency",
     description:
-      "E-Surplus takes a direct approaching when it comes to tackling the problem of electronic waste and wastes no time by connecting schools, electronic recyclers and charities in the most efficient way possible!",
+      "E-Surplus takes a direct approach when it comes to tackling the problem of electronic waste and wastes no time by connecting schools, electronic recyclers and charities in the most efficient way possible!",
     //avatar: Avatar1,
-    name: "Antonin Grosclaude-Evans - Student at EJM",
+    name: "Antonin Grosclaude-Evans - Student at EJM - Done by Pierre",
     designation: "@denny.hil",
     review: 4,
   },
@@ -53,11 +53,11 @@ const data = [
   },
   {
     id: 5,
-    title: 'Modern look & trending design',
+    title: '',
     description:
       '#text',
-    avatar: Avatar4,
-    name: 'Paul Meyer',
+    //avatar: Avatar4,
+    name: 'Paul Meyer - High-maintenance prostitute',
     designation: '@denny.hil',
     review: 4,
   },
