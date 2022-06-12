@@ -13,6 +13,16 @@ import Avatar4 from 'assets/testimonial/avatar4.png';
 const data = [
   {
     id: 1,
+    title: "Efficiency",
+    description:
+      "E-Surplus takes a direct approaching when it comes to tackling the problem of electronic waste and wastes no time by connecting schools, electronic recyclers and charities in the most efficient way possible!",
+    avatar: Avatar5,
+    name: "Antonin Grosclaude-Evans - Student at EJM",
+    designation: "@denny.hil",
+    review: 4,
+  },
+  {
+    id: 2,
     title: 'Work ethic',
     description:
       '#text',
@@ -22,7 +32,7 @@ const data = [
     review: 4,
   },
   {
-    id: 2,
+    id: 3,
     title: 'Design Quality & performance',
     description:
       '#text',
@@ -32,7 +42,7 @@ const data = [
     review: 5,
   },
   {
-    id: 3,
+    id: 4,
     title: 'Layout and organized layers',
     description:
       '#text',
@@ -42,7 +52,7 @@ const data = [
     review: 5,
   },
   {
-    id: 4,
+    id: 5,
     title: 'Modern look & trending design',
     description:
       '#text',
