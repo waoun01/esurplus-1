@@ -17,7 +17,7 @@ const data = [
     description:
       "E-Surplus takes a direct approach when it comes to tackling the problem of electronic waste and wastes no time by connecting schools, electronic recyclers and charities in the most efficient way possible!",
     //avatar: Avatar1,
-    name: "Antonin Grosclaude-Evans - Student at EJM - Done by Pierre",
+    name: "Antonin Grosclaude-Evans - Student at EJM",
     designation: "@denny.hil",
     review: 4,
   },
