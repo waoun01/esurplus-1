@@ -2,26 +2,26 @@ import React from 'react';
 import Head from 'next/head';
 
 export default function SEO({
-  description = 'Charitable company',
-  author = 'William Aoun',
+  description = "Charitable Company",
+  author = "William Aoun",
   meta,
-  title = 'Charitable company',
+  title = "Charitable Company",
 }) {
   const metaData = [
     {
-      name: `E-Surplus`,
+      name: `esurplus`,
       content: description,
     },
     {
-      property: `esurplus`,
+      property: `E-surplus`,
       content: title,
     },
     {
-      property: `e-surplus`,
+      property: `E-Surplus`,
       content: description,
     },
     {
-      property: `Esurplus`,
+      property: `og:type`,
       content: `website`,
     },
     {
