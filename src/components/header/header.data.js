@@ -9,6 +9,10 @@ export default [
   },
   {
     path: 'pricing',
+    label: 'Partners',
+  },
+  {
+    path: 'teamfounders',
     label: 'Team',
   },
   {
