@@ -13,6 +13,6 @@ export default [
   },
   {
     path: 'testimonial',
-    label: 'Testimojkbjnials',
+    label: 'Testimonials',
   },
 ];
